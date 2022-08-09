@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zilasapeles/static/css/main.23c77ac8.css",
+    "main.js": "/zilasapeles/static/js/main.f662d1a2.js",
+    "static/js/787.4a07b953.chunk.js": "/zilasapeles/static/js/787.4a07b953.chunk.js",
+    "index.html": "/zilasapeles/index.html",
+    "main.23c77ac8.css.map": "/zilasapeles/static/css/main.23c77ac8.css.map",
+    "main.f662d1a2.js.map": "/zilasapeles/static/js/main.f662d1a2.js.map",
+    "787.4a07b953.chunk.js.map": "/zilasapeles/static/js/787.4a07b953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c77ac8.css",
+    "static/js/main.f662d1a2.js"
+  ]
+}
